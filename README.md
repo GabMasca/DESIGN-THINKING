@@ -15,3 +15,5 @@ Com base nas dores identificadas em uma entrevista simulada, como imprecisão no
 tempo estimado de entrega, dificuldade de acesso ao suporte ao cliente e opções
 limitadas de pagamento, este projeto apresenta um protótipo funcional desenvolvido
 no Figma.
+
+https://www.figma.com/proto/3L6bEIRsWbN4avwtRa8Di5/Untitled?page-id=0%3A1&node-id=4-362&node-type=frame&viewport=350%2C401%2C0.32&t=Zu2FvvFRXK6yNzuv-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A362 .
